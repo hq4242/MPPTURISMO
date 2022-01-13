@@ -12,12 +12,6 @@
       <div class="member">
         <div class="member-img">
           <img src="assets/img/empeendimientos/slider_playitachimu.jpg" class="img-fluid" alt="">
-          <div class="social">
-            <a href=""><i class="bi bi-twitter"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
-          </div>
         </div>
         <div class="member-info">
           <h4>Walter White</h4>
@@ -31,12 +25,6 @@
       <div class="member">
         <div class="member-img">
           <img src="assets/img/empeendimientos/slider_balserochimu.jpg" class="img-fluid" alt="">
-          <div class="social">
-            <a href=""><i class="bi bi-twitter"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
-          </div>
         </div>
         <div class="member-info">
           <h4>Sarah Jhonson</h4>
@@ -50,12 +38,6 @@
       <div class="member">
         <div class="member-img">
           <img src="assets/img/empeendimientos/slider_ecoartesania.jpg" class="img-fluid" alt="">
-          <div class="social">
-            <a href=""><i class="bi bi-twitter"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
-          </div>
         </div>
         <div class="member-info">
           <h4>William Anderson</h4>
@@ -69,12 +51,6 @@
       <div class="member">
         <div class="member-img">
           <img src="assets/img/empeendimientos/slider_islatiti.jpg" class="img-fluid" alt="">
-          <div class="social">
-            <a href=""><i class="bi bi-twitter"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
-          </div>
         </div>
         <div class="member-info">
           <h4>Amanda Jepson</h4>

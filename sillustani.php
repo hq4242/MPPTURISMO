@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Portfolio Details - FlexStart Bootstrap Template</title>
+  <title>SILLUSTANI - TURISMO</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -27,12 +27,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: FlexStart - v1.9.0
-  * Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -144,7 +138,54 @@
 
       </div>
     </section><!-- End Portfolio Details Section -->
+    <section>
+    <div class="container">
 
+
+    <div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Marca</th>
+                <th scope="col">Modelo</th>
+                <th scope="col" class="text-center">Año</th>
+                <th scope="col" class="text-right">Precio</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td scope="row">1</td>
+                <td>Nissan</td>
+                <td>Qasqai</td>
+                <td class="text-center">2017</td>
+                <td class="text-right">18.560€</td>
+            </tr>
+            <tr>
+                <td scope="row">2</td>
+                <td>Seat</td>
+                <td>Ibiza</td>
+                <td class="text-center">2005</td>
+                <td class="text-right">4.500€</td>
+            </tr>
+            <tr>
+                <td scope="row">3</td>
+                <td>Citroen</td>
+                <td>Saxo</td>
+                <td class="text-center">2001</td>
+                <td class="text-right">1.850€</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="4"><strong>Total</strong></td>
+                <td class="text-right"><strong>24.910€</strong></td>
+            </tr>
+        </tfoot>
+    </table>
+    </div>
+</div>
+    </section>
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
