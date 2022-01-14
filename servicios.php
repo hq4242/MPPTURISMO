@@ -52,108 +52,19 @@
 
         <ol>
           <li><a href="index.html">Inicio</a></li>
-          <li>Portfolio Details</li>
+          <li>SAFE TRAVEL</li>
         </ol>
-        <h2>Portfolio Details</h2>
+        <h2>SERVICIOS QUE CUENTA CON EL SELLO SAFE TRAVEL</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
 
-    <!-- ======= Portfolio Details Section ======= -->
-    <section id="portfolio-details" class="portfolio-details">
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-8">
-            <div class="portfolio-details-slider swiper">
-              <div class="swiper-wrapper align-items-center">
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-1.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-2.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-3.jpg" alt="">
-                </div>
-
-              </div>
-              <div class="swiper-pagination"></div>
-            </div>
-          </div>
-
-          <div class="col-lg-4">
-            <div class="portfolio-info">
-              <h3>Project information</h3>
-              <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
-              </ul>
-            </div>
-            <div class="portfolio-description">
-              <h2>This is an example of portfolio detail</h2>
-              <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
-              </p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Portfolio Details Section -->
     <section>
-    <div class="container">
-
-
-    <div class="table-responsive">
-    <table class="table">
-        <thead>
-            <tr>
-                <th scope="col">#</th>
-                <th scope="col">Marca</th>
-                <th scope="col">Modelo</th>
-                <th scope="col" class="text-center">Año</th>
-                <th scope="col" class="text-right">Precio</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td scope="row">1</td>
-                <td>Nissan</td>
-                <td>Qasqai</td>
-                <td class="text-center">2017</td>
-                <td class="text-right">18.560€</td>
-            </tr>
-            <tr>
-                <td scope="row">2</td>
-                <td>Seat</td>
-                <td>Ibiza</td>
-                <td class="text-center">2005</td>
-                <td class="text-right">4.500€</td>
-            </tr>
-            <tr>
-                <td scope="row">3</td>
-                <td>Citroen</td>
-                <td>Saxo</td>
-                <td class="text-center">2001</td>
-                <td class="text-right">1.850€</td>
-            </tr>
-        </tbody>
-        <tfoot>
-            <tr>
-                <td colspan="4"><strong>Total</strong></td>
-                <td class="text-right"><strong>24.910€</strong></td>
-            </tr>
-        </tfoot>
-    </table>
+ 
     </div>
+
+    </div>
+
 </div>
     </section>
   </main><!-- End #main -->
