@@ -1,7 +1,7 @@
 <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
-          <li><a class="nav-link scrollto" href="#about">City Tour</a></li>
+          <li><a class="nav-link scrollto" href="citytour.php">City Tour</a></li>
           <li class="dropdown"><a href="#"><span>Atractivos</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li class="dropdown"><a href="#"><span>Atractivos Turisticos</span> <i class="bi bi-chevron-right"></i></a>
@@ -84,3 +84,6 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
+
+  
+  
